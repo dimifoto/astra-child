@@ -110,4 +110,4 @@ function custom_services_section() { ?>
 	    </section>
 	<!-- Section 3 End -->
 <?php }
-add_action('giannis_home_function', 'custom_services_section', 15 );
+add_action('dimitris_home_function', 'custom_services_section', 15 );
